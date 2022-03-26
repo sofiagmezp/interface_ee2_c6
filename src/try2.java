@@ -248,9 +248,6 @@ public class try2 extends JFrame {
             Float noiseFloat = Float.valueOf(noise);
             Float tempFloat = Float.valueOf(temp);
 
-            //Float brightInt = Float.valueOf("20");
-            //Float noiseFloat = Float.valueOf("334");
-            //Float tempFloat = Float.valueOf("32.5");
             System.out.println(brightInt);
             System.out.println(noiseFloat);
             System.out.println(tempFloat);

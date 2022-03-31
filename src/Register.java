@@ -13,7 +13,7 @@ import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
 
-//create CreateLoginForm class to create login form
+//create LoginFormDemo.CreateLoginForm class to create login form
 //class extends JFrame to create a window where our component add
 //class implements ActionListener to perform an action on button click
 public class Register extends JFrame{

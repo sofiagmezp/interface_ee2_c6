@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="354a81e6-8905-4281-94c5-426228c49522" name="Changes" comment="" />
+    <list default="true" id="354a81e6-8905-4281-94c5-426228c49522" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreateLoginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateLoginForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainF.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainF.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Register.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,9 +37,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Home">
+  <component name="RunManager" selected="Application.MainF">
     <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Home" />
+      <module name="guiee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainF" />
       <module name="guiee" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -41,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainF" />
         <item itemvalue="Application.Home" />
         <item itemvalue="Application.try2" />
       </list>
@@ -56,10 +77,22 @@
       <updated>1648296978531</updated>
       <workItem from="1648296980111" duration="444000" />
       <workItem from="1648298770517" duration="635000" />
+      <workItem from="1648733329586" duration="679000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

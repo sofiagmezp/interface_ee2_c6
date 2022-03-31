@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 public class MainF extends JFrame{
     private JPanel mainPanel;
     private JButton settingsOfMachineButton;
-    private JButton scheduleButton;
     private JButton dataReadingsButton;
     private JLabel label1;
 
@@ -30,18 +29,12 @@ public class MainF extends JFrame{
             {
 
 
-                                               JFrame try2 = new try2();
-                                               try2.setVisible(true);
+                JFrame try2 = new try2();
+                try2.setVisible(true);
 
             }
         });
-        scheduleButton.setFont(new Font("Serif", Font.BOLD, 16));
-        scheduleButton.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                //go onto a page that can make the activators work for a period in time
-            }
-        });
+
         dataReadingsButton.setFont(new Font("Serif", Font.BOLD, 16));
         dataReadingsButton.addActionListener(new ActionListener() {
             @Override

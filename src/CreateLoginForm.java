@@ -137,7 +137,7 @@ public class CreateLoginForm extends JFrame {
         {
             try
             {
-                //create instance of the CreateLoginForm
+                //create instance of the LoginFormDemo.CreateLoginForm
                 CreateLoginForm form = new CreateLoginForm();
                 form.setSize(600,100);  //set size of the frame
                 form.setResizable(false);
